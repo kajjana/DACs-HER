@@ -6,8 +6,6 @@ K. Boonpalit, Dr. C. Prommin, Prof. S. Nutanong
 
 School of Information Science and Technology, Vidyasirimedhi Institute of Science and Technology (VISTEC), Rayong 21210, Thailand
 
-E-mail: yutthana.wongnongwa@gmail.com
-
 Dr. Y. Wongnongwa
 
 School of Information Science and Technology, Vidyasirimedhi Institute of Science and Technology (VISTEC), Rayong 21210, Thailand
