@@ -1,6 +1,6 @@
 ## Data-Driven Discovery of Graphene-based Dual-atom Catalyst for Hydrogen Evolution Reaction with Graph Neural Network and DFT Calculations 
 
-Kajjana Boonpalit, Yutthana Wongnongwa*, Chanatkran Prommin, Kaito Takahashi, Sarana Nutanong, and Supawadee Namuangruk* 
+Kajjana Boonpalit, Yutthana Wongnongwa*, Chanatkran Prommin, Sarana Nutanong, and Supawadee Namuangruk* 
 
 K. Boonpalit, Dr. C. Prommin, Prof. S. Nutanong
 
