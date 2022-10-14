@@ -14,10 +14,6 @@ NSTDA Supercomputer Center (ThaiSC), National Science and Technology Development
 
 E-mail: yutthana.wongnongwa@gmail.com
 
-Dr. K. Takahashi
-
-Institute of Atomic and Molecular Sciences, Academia Sinica, Taipei 10617, Taiwan
-
 Dr. S. Namuangruk
 
 National Nanotechnology Center (NANOTEC), National Science and Technology Development Agency (NSTDA), Klong Luang, Pathum Thani 12120, Thailand
